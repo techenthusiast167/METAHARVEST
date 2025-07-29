@@ -75,6 +75,63 @@ This is an advanced Python-based Metadata Web Scraper designed to extract rich, 
 
 # Requirements and Dependencies
 
-- **Firstly, create your virtual environment**:
+- Firstly, create your virtual environment:
 
+      virtualenv my_temp_venv
+      source my_temp_venv/bin/activate 
   
+
+- Ensure you have Python 3.7 or later installed
+
+- Install required packages using pip:
+
+      pip install requests beautifulsoup4 spacy colorama
+      python -m spacy download en_core_web_sm
+
+
+- - - 
+
+# Usage
+
+- kindly save the tool via the link…
+
+
+- Create a `urls.txt` file containing one URL per line. You can include as many URLs as needed
+
+      https://example.com
+      https://another-site.org
+
+- Run the scraper script:
+
+      python metaharvest.py
+
+
+— View Outputs:
+  
+   - `metadata_output.json` — detailed metadata per URL.
+     
+   - `metadata_output.csv` — summarized tabular data for easy analysis.
+ 
+
+- - - 
+
+## Disclaimer
+
+This tool is provided for educational, lawful, and ethical cybersecurity and OSINT purposes only. The developers make no warranties regarding the tool’s suitability or legality in any particular jurisdiction. Users are solely responsible for ensuring their use complies with all applicable laws, regulations, and website terms of service. The developers disclaim any liability arising from unauthorized or malicious use of this software.
+
+
+- - - 
+
+
+## Ethical Considerations
+
+Use the tool responsibly by respecting website policies and privacy laws, minimizing server impact, being transparent and honest, protecting collected data, and applying it solely for lawful and ethical purposes.
+
+
+- - - 
+
+If you need any additional assistance—on resolving errors, adding features, or polishing documentation - just let me know. I’m here to help!
+
+**Creator: Tech Enthusiast** 
+
+**LinkedIn: http://linkedin.com/in/tech-enthusiast-669279263**
