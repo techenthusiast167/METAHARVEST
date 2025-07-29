@@ -8,7 +8,7 @@ This is an advanced Python-based Metadata Web Scraper designed to extract rich, 
 
 # What This Tool Does
 
-**Core Capabilities**
+— **Core Capabilities**
 
 
 - **Title Extraction**: Captures the page title to identify the main topic or branding.
@@ -35,7 +35,7 @@ This is an advanced Python-based Metadata Web Scraper designed to extract rich, 
 
 
 
-**Output Formats**
+— **Output Formats**
 
 - Saves the detailed metadata per URL in JSON for structured data handling.
 
@@ -46,7 +46,7 @@ This is an advanced Python-based Metadata Web Scraper designed to extract rich, 
 
 # Importance in OSINT and Cybersecurity
 
-**OSINT (Open Source Intelligence)**
+— **OSINT (Open Source Intelligence)**
 
 
 - **Information Gathering**: Automatically collects contact points (emails), key personnel or organizations, web infrastructure data (IPs), and social presence linked to a domain, all critical for intelligence operations.
@@ -59,7 +59,7 @@ This is an advanced Python-based Metadata Web Scraper designed to extract rich, 
 
 
 
-**Cybersecurity Relevance**
+— **Cybersecurity Relevance**
 
 - **Security Posture Analysis**: Capturing security headers exposes potential misconfigurations or weaknesses in web defenses.
 
@@ -93,7 +93,13 @@ This is an advanced Python-based Metadata Web Scraper designed to extract rich, 
 
 # Usage
 
-- kindly save the tool via the link…
+— kindly save the tool via the link…
+
+**Example**:
+
+- Open *nano metaharvest* 
+- Copy and paste in the script and press *Ctrl + O, Enter, Ctrl + X* to exit
+
 
 
 - Create a `urls.txt` file containing one URL per line. You can include as many URLs as needed
@@ -101,12 +107,12 @@ This is an advanced Python-based Metadata Web Scraper designed to extract rich, 
       https://example.com
       https://another-site.org
 
-- Run the scraper script:
+— **Run the scraper script**:
 
       python metaharvest.py
 
 
-— View Outputs:
+— **View Outputs**:
   
    - `metadata_output.json` — detailed metadata per URL.
      
@@ -117,7 +123,7 @@ This is an advanced Python-based Metadata Web Scraper designed to extract rich, 
 
 ## Disclaimer
 
-This tool is provided for educational, lawful, and ethical cybersecurity and OSINT purposes only. The developers make no warranties regarding the tool’s suitability or legality in any particular jurisdiction. Users are solely responsible for ensuring their use complies with all applicable laws, regulations, and website terms of service. The developers disclaim any liability arising from unauthorized or malicious use of this software.
+This tool is provided for educational, lawful, and ethical cybersecurity and OSINT purposes only. I make no warranties regarding the tool’s suitability or legality in any particular jurisdiction. Users are solely responsible for ensuring their use complies with all applicable laws, regulations, and website terms of service. The developers disclaim any liability arising from unauthorized or malicious use of this software.
 
 
 - - - 
