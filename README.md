@@ -75,15 +75,15 @@ This is an advanced Python-based Metadata Web Scraper designed to extract rich, 
 
 # Requirements and Dependencies
 
-- Firstly, create your virtual environment:
+- **Create your virtual environment**:
 
       virtualenv my_temp_venv
       source my_temp_venv/bin/activate 
   
 
-- Ensure you have Python 3.7 or later installed
+- **Ensure you have Python 3.7 or later installed**
 
-- Install required packages using pip:
+- **Install required packages using pip**:
 
       pip install requests beautifulsoup4 spacy colorama
       python -m spacy download en_core_web_sm
@@ -93,12 +93,13 @@ This is an advanced Python-based Metadata Web Scraper designed to extract rich, 
 
 # Usage
 
-— kindly save the tool via the link…
+— **Connect via the link below, copy and save the script**:
+
 
 **Example**:
 
-- Open *nano metaharvest* 
-- Copy and paste in the script and press *Ctrl + O, Enter, Ctrl + X* to exit
+- Open **nano metaharvest** 
+- Copy and paste in the script and press **Ctrl + O, Enter, Ctrl + X** to exit
 
 
 
