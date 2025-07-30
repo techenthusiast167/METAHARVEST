@@ -93,16 +93,15 @@ This is an advanced Python-based Metadata Web Scraper designed to extract rich, 
 
 # Usage
 
-— **Connect via the link below, copy and save the script**:
-
-Link isn't up for now……… 😇
+— **Please copy the script from the link below and save it locally**:
+  
+https://gist.github.com/techenthusiast16/1489e2711921aa2741d154a8f10960f4
 
 **Example**:
 
-- Open **nano metaharvest** 
-- Copy and paste in the script and press **Ctrl + O, Enter, Ctrl + X** to exit
-
-
+- Open **nano metaharvest**
+- Copy and paste in the script and press
+**Ctrl + 0, Enter, Ctrl + X** to exit
 
 - Create a `urls.txt` file containing one URL per line. You can include as many URLs as needed
 
