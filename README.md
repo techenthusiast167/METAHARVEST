@@ -95,7 +95,7 @@ This is an advanced Python-based Metadata Web Scraper designed to extract rich, 
 
 — **Please copy the script from the link below and save it locally**:
   
-https://gist.github.com/techenthusiast16/1489e2711921aa2741d154a8f10960f4
+https://gist.github.com/techenthusiast167/1489e2711921aa2741d154a8f10960f4
 
 **Example**:
 
