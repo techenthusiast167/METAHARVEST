@@ -103,7 +103,7 @@ https://gist.github.com/techenthusiast167/1489e2711921aa2741d154a8f10960f4
 - Copy and paste in the script and press
 **Ctrl + 0, Enter, Ctrl + X** to exit
 
-- Create a `urls.txt` file containing one URL per line. You can include as many URLs as needed
+- Create a `urls.txt` file containing one URL per line using nano. You can include as many URLs as needed
 
       https://example.com
       https://another-site.org
