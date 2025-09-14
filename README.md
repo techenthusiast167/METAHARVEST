@@ -8,7 +8,7 @@ This is an advanced Python-based Metadata Web Scraper designed to extract rich, 
 
 # What This Tool Does
 
-— **Core Capabilities**
+ ### Core Capabilities
 
 
 - **Title Extraction**: Captures the page title to identify the main topic or branding.
