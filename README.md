@@ -77,7 +77,7 @@ This is an advanced Python-based Metadata Web Scraper designed to extract rich, 
 
 - **Create your virtual environment**:
 
-      virtualenv my_temp_venv
+      python3 -m virtualenv my_temp_venv
       source my_temp_venv/bin/activate 
   
 
